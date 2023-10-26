@@ -5,11 +5,11 @@ Created on Thu Oct 26 17:38:01 2023
 @author: user
 """
 
-# son = float(input("Juft son kiriting: "))
-# if son%2!=0:
-#     print("Bu son juft emas.")
-# else:
-#     print("Rahmat!")
+son = float(input("Juft son kiriting: "))
+if son%2!=0:
+    print("Bu son juft emas.")
+else:
+    print("Rahmat!")
     
 
 # yosh = int(input("Yoshingiz nechida?"))
